@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://old.reddit.com',
 		},
 		{
 			id: '6',
@@ -112,7 +112,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://amazon.co.uk/',
 		},
 		{
 			id: '5',
@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Udemy',
+					link: 'https://www.udemy.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Codecademy',
+					link: 'https://www.codecademy.com/',
 				},
 				{
 					name: 'Slack',
