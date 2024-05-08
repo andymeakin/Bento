@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.codecademy.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Feedly',
+					link: 'https://feedly.com/i/my',
 				},
 			],
 		},
