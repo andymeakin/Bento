@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Vikunja',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://todo.tchncs.de/',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Lemmy',
 			icon: 'glasses',
-			link: 'https://old.reddit.com',
+			link: 'https://discuss.tchncs.de/?dataType=Post&listingType=Subscribed&sort=Active',
 		},
 		{
 			id: '6',
@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
+			name: 'Mastodon',
 			icon: 'twitter',
-			link: 'https://mastodon.social/home/',
+			link: 'https://procial.tchncs.de/',
 		},
 		{
 			id: '3',
